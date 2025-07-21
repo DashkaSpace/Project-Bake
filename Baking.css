@@ -1,5 +1,4 @@
 p {font-size: 25px;
-background-color: antiquewhite;
 font-family: "josefin Sans";}
 h1 {font-size: 40px;
 font-family: "Dancing Script", cursive;}
@@ -12,6 +11,6 @@ color: white;}
 .spacer {height: 50px;}
 .pink-element {background-color: rgb(224, 200, 204);}
 .red-up {background-color: rgb(185, 207, 200);}
-body {background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkohWkHzEh6dZhBXA140bKewGwXaL56OeB2A&s");
+body {background: url("https://www.google.com/imgres?q=white%20background&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F002%2F375%2F040%2Fsmall_2x%2Fmodern-white-background-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwhite-background&docid=MBH-NYxwhDLHZM&tbnid=YZ5MKGS_spL6mM&vet=12ahUKEwiw3MXq5c6OAxUUmbAFHRSiKQQQM3oECBIQAA..i&w=625&h=400&hcb=2&ved=2ahUKEwiw3MXq5c6OAxUUmbAFHRSiKQQQM3oECBIQAA");
 background: cover;
 background-size: cover;}
