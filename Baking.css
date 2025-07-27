@@ -10,11 +10,13 @@ body {
 h1 {
     background-color: black;
     color: white;
+    white-space: nowrap;
 }
 
 h2 {
     background-color: rgb(189, 90, 189);
    margin: 100px 0 50px 0;
+    white-space: nowrap;
 
 }
 p {
@@ -35,6 +37,7 @@ p {
 h4 {
     align-items: center;
     justify-items: center:
+    white-space: nowrap;
 }
 
 #text-bold {
