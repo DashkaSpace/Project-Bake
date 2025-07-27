@@ -37,6 +37,7 @@ p {
     background-color: aquamarine;
     white-space: nowrap;
     display: inline;
+    text-indent: 0 !important;
 }
 
 ol li {
