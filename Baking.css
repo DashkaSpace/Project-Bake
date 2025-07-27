@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-items: center;
     font-family: "Josefin Sans";
-    
+    display: flexbox flex -webkit-flex;
 
 }
 
