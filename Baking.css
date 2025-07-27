@@ -73,6 +73,7 @@ img {
 .video-style {
     justify-items: center;
     align-items: center;
+    max-width: 80%;
 }
 
 button {
