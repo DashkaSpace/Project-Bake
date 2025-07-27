@@ -31,6 +31,14 @@ p {
     line-height: 25px;
 
 }
+
+#text-bold {
+    min-width: 70% !important;
+    background-color: aquamarine;
+    white-space: nowrap;
+    display: inline;
+}
+
 ol li {
     font-family: "Dancing Script";
     font-size: 20px;
