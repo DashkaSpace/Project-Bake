@@ -33,11 +33,9 @@ p {
 }
 
 #text-bold {
-    min-width: 70% !important;
     background-color: aquamarine;
     white-space: nowrap;
     display: inline;
-    text-indent: 0 !important;
 }
 
 ol li {
