@@ -50,6 +50,12 @@ ol {
     margin: 0 0 40px 0;
 }
 
+img {
+    max-width: 100%;
+    margin: 0 auto;
+    text-style: center;
+}
+    
 
 .img-container, .video-style, iframe {
     align-items: center;
@@ -57,7 +63,7 @@ ol {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: auto:
+    margin: auto;
 }
 
 button {
