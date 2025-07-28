@@ -34,8 +34,6 @@ p {
 
 #text-bold {
     background-color: aquamarine;
-    align-items: center !important;
-    justify-items: center;
     white-space: nowrap;
     display: inline;
 }
