@@ -3,8 +3,6 @@ body {
     align-items: center !important;
     justify-items: center;
     font-family: "Josefin Sans";
-    display: flexbox flex -webkit-flex;
-
 }
 
 h1 {
@@ -49,10 +47,15 @@ ol {
 img {
     border: solid 10px rgb(205, 6, 99);
     border-radius: 60px;
+    max-width: 60%;
+    max-height: 20%;
 
 }
 
-
+img {
+     justify-content: center;
+    align-items: center;
+}
 
 .img-container {
     justify-content: center;
