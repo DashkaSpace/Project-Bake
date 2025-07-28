@@ -51,32 +51,13 @@ ol li {
 ol {
     margin: 0 0 40px 0;
 }
-img {
-    border: solid 10px rgb(205, 6, 99);
-    border-radius: 60px;
-    max-width: 60%;
-    max-height: 20%;
 
-}
 
-img {
-     justify-content: center;
-    align-items: center;
-}
-
-.img-container {
-    justify-content: center;
-    align-items: center;
-    max-width: 60%;
-    max-height: 20%;
-}
-
-.video-style {
-    justify-items: center;
-    align-items: center;
-    max-width: 60%;
-    max-height: 20%;
+img, video, iframe {
+    max-width: 100%;
+    height: auto;
     display: block;
+    margin: auto:
 }
 
 button {
