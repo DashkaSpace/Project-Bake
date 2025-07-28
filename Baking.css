@@ -32,6 +32,13 @@ p {
 
 }
 
+#text-bold {
+    background-color: aquamarine;
+    align-items: center !important;
+    justify-items: center;
+    white-space: nowrap;
+    display: inline;
+}
 
 
 ol li {
@@ -67,7 +74,7 @@ img {
 .video-style {
     justify-items: center;
     align-items: center;
-    max-width: 80%;
+    max-width: 60%;
     max-height: 20%;
 }
 
