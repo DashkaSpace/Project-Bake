@@ -53,7 +53,7 @@ ol {
 }
 
 
-img, video, iframe {
+.img-container, .video-style, iframe {
     align-items: center;
     justify-items: center;
     max-width: 100%;
