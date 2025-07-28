@@ -54,10 +54,12 @@ ol {
 
 
 img, video, iframe {
+    align-items: center;
+    justify-items: center;
     max-width: 100%;
-    height: auto;
+    height: 20% auto;
     display: block;
-    margin: auto:
+    margin: 20px auto:
 }
 
 button {
