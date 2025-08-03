@@ -3,6 +3,8 @@ body {
     align-items: center;
     justify-items: center;
     font-family: "Josefin Sans";
+    justify-content: center;
+    align-content: center;
 }
 
 h1 {
